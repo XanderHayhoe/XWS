@@ -1,0 +1,8 @@
+[
+    {
+        "key": "ctrl+l",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Git Auto Commit & Push",
+        "when": "resourceScheme == file"
+    }
+]
